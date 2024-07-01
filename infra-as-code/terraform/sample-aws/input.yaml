@@ -21,6 +21,6 @@ db_username: "testdemo"
 domain_name: "test-githubactions.digit.org"
 
 # Replace with the name you want to give to your S3 bucket which is used to store the terraform state
-terraform_state_bucket_name: "test-demo-githubactions-bucket"
+terraform_state_bucket_name: "abhimanyu-githubactions-bucket"
 
 
