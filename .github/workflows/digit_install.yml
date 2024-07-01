@@ -170,7 +170,7 @@ jobs:
           aws-iam-authenticator version  
       - name: Generate kubeconfig
         run: |
-          aws eks update-kubeconfig --region ${{ secrets.AWS_REGION }} --name test-demo
+          aws eks update-kubeconfig --name test-demo --region ${{ secrets.AWS_REGION }} 
           cat ~/.kube/config > kubeconfig
       - name: Verify kubectl configuration
         run: kubectl config view 
