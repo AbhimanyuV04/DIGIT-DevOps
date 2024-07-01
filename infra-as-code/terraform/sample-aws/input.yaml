@@ -7,7 +7,7 @@ cluster_name: "test-demo"
 ssh_key_name: "test-demo-ssh-key" 
 
 # Replace with public key which you want to add in your EC2 machines # ssh key which you want to add in your EC2 machines
-public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDEyfjLaKskpv90BCvgVm2IFtf5V+B41YM7pSt73QID5/lByMuLRIcBum9n48A/BlxhkyI4TuF1GHXFKJju7UZA9ybVkhugpJhqFp+rjVcXNgYbeGToYcLRE88aFbhNDw9ZtSJF5Kd2fZUT9Vj7cMi1LqRLAprOp8FZWpdn1+QBDTJQVPUzWux0hmh56L00fjxTIMPhTbH8EQcyd4SVBuJvAO4Gs3/oNLOUhyA4yF49/bvY2x8Y4v9IDZgnHqTuAMeMQNn+nPoxP1eNVwOM/3Lx/a505uvMiim/cLSNFmn6sozo8VSwsK0lJGiiGaZiV7GLGEwVL+QA8/pDxXId5Rxb"
+public_ssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCBj2Zo8Hq5bu2+vrJyH1LNAY4EORG9gEBTGW6CKpkeSp3msFFHdraC5dl0paGEpnlbkgvzZi2gyApUinYrHgErHByU/xENuevSQJqrH1BU+U2rU0PMeWHJwx+m7/89mzaR35pGuBq1932+L1eL6D/L7sel5ml8t9X+/Et9a7z4v4AWgvoJEgIX8bqlOqUyRNqN+qmVqQFtdJtaxpisRzDa75kXL+YzVBNNXNXS+/ScHjQm9CuFrmZZ799PH4kiReS6391s5uHeBYvrWCGxfY1ccuhRZbtm4dI28Kr6qhZn/wYVzZ/vZy6Ma5c133M8W//zxSfnRWlqh11kpxHfEuJV"
 
 # Name you want to give to your Database
 # DB name must contain only alphanumeric characters
